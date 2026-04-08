@@ -50,7 +50,7 @@ The agent will automatically flag any remaining AI patterns after the first pass
 
 ---
 
-## Full example
+## Full example (using Qwen3.5-9B local)
 
 ### Before
 
