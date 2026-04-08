@@ -51,3 +51,18 @@ If a writing sample is provided, match its sentence length, word choice, punctua
 - Persuasive authority tropes: "at its core," "the real question is," "what really matters"
 - Signposting: "let's dive in," "here's what you need to know," "without further ado"
 - Fragmented headers: heading → one-line restatement → content; cut the restatement
+
+**Corporate speak**
+- Alignment/align: "align on," "align with," "get aligned" → agree, match, decide
+- Synergy/synchronicity: → coordination, overlap, fit
+- Leverage (verb): → use
+- Circle back, loop in, touch base: → follow up, include, talk
+- Move the needle, gain traction: → make progress, take hold
+- Bandwidth (capacity sense): → time, capacity
+- Deliverable, action item: → output, task
+- Socialize (an idea): → share, discuss
+- Take this offline: → discuss separately
+- Scalable, sustainable (vague): → cut or make specific
+- Ecosystem (abstract business sense): → market, community, network
+- Value-add, value proposition (filler use): → cut or restate concretely
+- Stakeholder (when "person" or a specific role works): → use the specific word
