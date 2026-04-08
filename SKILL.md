@@ -1,10 +1,3 @@
----
-name: low_token_humanizer
-version: 1.0.0
-description: Compressed reference for removing AI writing patterns. Derived from blader/humanizer.
-license: MIT
----
-
 # Low Token Humanizer: Persistent Humanized AI Responses
 
 Remove AI writing patterns to make text sound natural and human.
